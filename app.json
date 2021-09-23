@@ -2,7 +2,7 @@
   "name": "VcBot",
   "description": "A Telegram Bot Made to Play songs and stream Radio In Telegram Voice Chat.",
   "repository": "https://github.com/The-HellBot/VcBot",
-  "logo": "https://telegra.ph/file/67592f9fad95997fce400.jpg",
+  "logo": "https://telegra.ph/file/bbae313df257f2fdac267.jpg",
   "keywords": [
     "telegram",
     "radio",
@@ -27,11 +27,11 @@
       "description": "Bot token of bot made from @BotFather",
       "required": true
     },
-    "HELL_SESSION": {
+    "HELL_SESSION": {BQCmaY9_L8g2MrnkmfAlz_gjskhkx3V8AkFesMyoEpLrNU0Kwcq_pXcC53GledJcy1iwZa0tTfGXBu_ii_qDOEgod4e1D9_99QYhwX8sftXrHk-EyRUTXMbbQ7jFPPaq0NRdtwtFauh-0y_7Cym07Zdnq9OGck7c94jH3SYCzKpzvYSoR6WVGRECvTwFd1IbPL8eiuruvD9xCqDq333i_RxoXKBDlZmjeoL5WGOAyKWIBe8zv_0bc85khG1NZcynbplHgpvmh9EKl6M8ytAo6JmvDNxs2IiL9HaHTMCiXmuNWSmFc67h7rpl9J8Tdv7wl8amm_Zz5ModfDYRcJW688bweYotqgE
       "description": "See repo to get string making link.",
       "required": true
     },
-    "CHAT": {
+    "CHAT": {-1001591830659
       "description": "ID of Group where bot will play music.",
       "required": true
     },
