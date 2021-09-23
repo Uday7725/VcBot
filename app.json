@@ -15,15 +15,15 @@
     "radioplayer"
   ],
   "env": {
-    "API_ID": {
+    "API_ID": {7092919
       "description": "Get this value from my.telegram.org",
       "required": true
     },
-    "API_HASH": {
+    "API_HASH": {e37661f962cc0a17e784927cfc83cac9
       "description": "Get this value from my.telegram.org",
       "required": true
     },
-    "BOT_TOKEN": {
+    "BOT_TOKEN": {e37661f962cc0a17e784927cfc83cac9
       "description": "Bot token of bot made from @BotFather",
       "required": true
     },
@@ -35,11 +35,11 @@
       "description": "ID of Group where bot will play music.",
       "required": true
     },
-    "LOG_GROUP": {
+    "LOG_GROUP": {-1001525112206
       "description": "ID of a separate Group to log bot dumps.",
       "required": true
     },
-    "ADMINS": {
+    "ADMINS": {1815481119
       "description": "User ID of users to get access to admins commands. Use space between ids for multiple users.",
       "required": true
 }
